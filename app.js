@@ -24,7 +24,6 @@ const items = [
     { name: "cockatoo", image: "assets/cockatoo.png" },
     { name: "toucan", image: "assets/toucan.png" },
   ];
-  
  
   //Initial Time
 let seconds = 0,
